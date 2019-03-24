@@ -1,0 +1,54 @@
+I] ON my macMini for a 1h50~ video: 
+
+-------
+
+vDisturb.sh w/o compression just finished see MATCH_DIR_PATH/vDist.log
+
+real	54m19,739s
+user	81m42,516s
+sys	0m12,484s
+
+[1]+  Done                    time sh vDisturb.sh ../TEST
+
+-------
+
+vDisturb.sh with compression just finished see MATCH_DIR_PATH/vDist.log
+
+real	70m8,060s
+user	249m49,397s
+sys	1m24,705s
+
+
+dont 1h de compression
+
+--------
+
+II] ON google VM:
+
+-------
+
+
+time sh vDisturb.sh ../../190303_quentingiret_5c7be55a9b6a480d119253c3
+vDisturb.sh w/o compression just finished see MATCH_DIR_PATH/vDist.log
+
+real	37m22.704s
+user	55m49.408s
+sys	0m8.952s
+
+
+-------
+
+time sh vDisturb.sh ../../190303_quentingiret_5c7be55a9b6a480d119253c3
+coucou
+vDisturb.sh with compression just finished see MATCH_DIR_PATH/vDist.log
+
+real	24m46.856s
+user	93m12.004s
+sys	4m29.652s
+
+dont 19min de compression
+
+-------
+
+
+
