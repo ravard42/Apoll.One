@@ -1,0 +1,18 @@
+﻿#24 11 2018
+0-32 				====> include
+34-992			====> stitchingNamespace
+	#SETTINGS
+	34-100			====> const and proto
+	#FUNCTIONS
+	100-103			====> get_scale
+	104-126			====> equalize
+	127-171			====> color_correction_estimator
+	172-196			====> prepareBlender
+	198-212			====> create_warper
+	214-361			====> find_compose_infos
+	364-369			====> consoleHandler
+	371-574			====> stitch_video
+	576-810			====> find_stitching_infos
+	812-991			====> find_seam_masks
+
+994-1047			====>main

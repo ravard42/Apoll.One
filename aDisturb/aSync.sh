@@ -1,5 +1,6 @@
-sync_audio='/home/apollone/ravard/shift/storage/aDisturb/sync_audio.py'
-detectAudioDisturb='/home/apollone/ravard/shift/storage/aDisturb/detectAudioDisturb.py'
+aDisturb=/home/ravard/projets/Apoll.One/av_disturb/aDisturb
+sync_audio=$aDisturb/sync_audio.py
+detectAudioDisturb=$aDisturb/detectAudioDisturb.py
 
 if [ $# != 1 ] && [ $# != 2 ];then
 echo "usage: sh aSync.sh MATCH_DIR_PATH (with left.mp4 et right.mp4 in MATCH_DIR_PATH) title (optional)"

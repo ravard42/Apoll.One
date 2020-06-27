@@ -1,0 +1,14 @@
+'left and right' durent respectivement 20 minutes chacunes, et son synchronisees, tout du moins au debut! 
+la desynchronisation se produit a 10:02 sur la gauche
+
+
+note sync_audio:
+	a mettre au propre et a relir pour bien comprendre
+	a bosser le cut video avec les GOP (on ne doit pas avoir de decallage pour le concat)
+
+note detectAudioDisturb: 
+	a peu pret mi au propre, encore quelques trucs a voir
+	avec le setting actuel on arrive a etre sous les 10 sec de la vraie "cassure" sur notre exemple (9:55 exactement)
+
+note sync_manager:
+	a bosser

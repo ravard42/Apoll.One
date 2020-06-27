@@ -1,0 +1,11 @@
+total 5,6M
+drwxr-xr-x 3 ravard ravard 4,0K mars   9 00:19 .
+drwxr-xr-x 5 ravard ravard 4,0K mars   6 21:44 ..
+-rw-r--r-- 1 ravard ravard  540 mars   8 22:32 aSync.sh
+-rw-r--r-- 1 ravard ravard 2,3K mars   8 22:30 detectAudioDisturb.py
+-rw-r--r-- 1 ravard ravard 8,7K mars   8 19:53 doneAutoMationCommit.py
+-rw-r--r-- 1 ravard ravard    0 mars   9 00:19 log
+-rw-r--r-- 1 ravard ravard 7,6K mars   8 19:34 oldSync.py
+drwxr-xr-x 2 ravard ravard 4,0K mars   8 22:57 __pycache__
+-rw-r--r-- 1 ravard ravard  10K mars   9 00:18 sync_audio.py
+-rw-r--r-- 1 ravard ravard 5,5M mars   9 00:18 .wav
